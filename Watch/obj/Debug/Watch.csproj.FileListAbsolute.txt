@@ -1,0 +1,14 @@
+c:\users\ady8\documents\visual studio 2015\Projects\Watch\Watch\bin\Debug\Watch.exe.config
+c:\users\ady8\documents\visual studio 2015\Projects\Watch\Watch\bin\Debug\Watch.exe
+c:\users\ady8\documents\visual studio 2015\Projects\Watch\Watch\bin\Debug\Watch.pdb
+c:\users\ady8\documents\visual studio 2015\Projects\Watch\Watch\obj\Debug\Watch.csprojResolveAssemblyReference.cache
+c:\users\ady8\documents\visual studio 2015\Projects\Watch\Watch\obj\Debug\MainWindow.g.cs
+c:\users\ady8\documents\visual studio 2015\Projects\Watch\Watch\obj\Debug\App.g.cs
+c:\users\ady8\documents\visual studio 2015\Projects\Watch\Watch\obj\Debug\Watch_MarkupCompile.cache
+c:\users\ady8\documents\visual studio 2015\Projects\Watch\Watch\obj\Debug\Watch_MarkupCompile.lref
+c:\users\ady8\documents\visual studio 2015\Projects\Watch\Watch\obj\Debug\MainWindow.baml
+c:\users\ady8\documents\visual studio 2015\Projects\Watch\Watch\obj\Debug\Watch.g.resources
+c:\users\ady8\documents\visual studio 2015\Projects\Watch\Watch\obj\Debug\Watch.Properties.Resources.resources
+c:\users\ady8\documents\visual studio 2015\Projects\Watch\Watch\obj\Debug\Watch.csproj.GenerateResource.Cache
+c:\users\ady8\documents\visual studio 2015\Projects\Watch\Watch\obj\Debug\Watch.exe
+c:\users\ady8\documents\visual studio 2015\Projects\Watch\Watch\obj\Debug\Watch.pdb
